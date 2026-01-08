@@ -21,9 +21,9 @@ WebUI.callTestCase(findTestCase('Common Use/Open_Browser'), [:], FailureHandling
 
 WebUI.click(findTestObject('Home/btn_Make Appointment'))
 
-WebUI.setText(findTestObject('Login Page/input_Username_txt-username'), 'InvalidUser')
+WebUI.setText(findTestObject('Login Page/input_Username_txt-username'), '')
 
-WebUI.setText(findTestObject('Login Page/input_Password_txt-password'), 'IncorrectPassword')
+WebUI.setText(findTestObject('Login Page/input_Password_txt-password'), '')
 
 WebUI.click(findTestObject('Login Page/button_Login'))
 
