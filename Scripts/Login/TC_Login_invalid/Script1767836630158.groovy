@@ -27,7 +27,7 @@ WebUI.setText(findTestObject('Login Page/input_Password_txt-password'), 'Incorre
 
 WebUI.click(findTestObject('Login Page/button_Login'))
 
-WebUI.verifyElementVisible(findTestObject('Login Page/Login Failed/p_Login failed Please ensure the username'))
+WebUI.verifyElementVisible(findTestObject('Login Page/Login Failed/p_Login failed'))
 
 WebUI.closeBrowser()
 

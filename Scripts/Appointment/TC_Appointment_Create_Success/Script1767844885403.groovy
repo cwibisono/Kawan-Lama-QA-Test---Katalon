@@ -23,7 +23,7 @@ WebUI.selectOptionByLabel(findTestObject('Appointment/select_Facility', [('varia
             , ('variable_1') : 'Seoul CURA Healthcare Center', ('variable') : 'Hong Kong CURA Healthcare Center']), 'Seoul CURA Healthcare Center', 
     false)
 
-WebUI.check(findTestObject('Appointment/input_Apply for hospital readmission_chk_hospotal_readmission'))
+WebUI.check(findTestObject('Appointment/input_Apply for hospital readmission_checkbox'))
 
 WebUI.check(findTestObject('Appointment/input_Medicaid_radio_program_medicaid'))
 

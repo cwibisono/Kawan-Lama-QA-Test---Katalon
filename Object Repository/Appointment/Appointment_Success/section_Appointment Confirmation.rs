@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>section_Appointment Confirmation           _5b3155</name>
+   <name>section_Appointment Confirmation</name>
    <tag></tag>
    <elementGuidId>80142d2d-0cfd-4825-ab4a-19bdee5eddce</elementGuidId>
    <selectorCollection>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_CURA Healthcare_menu-toggle</name>
+   <name>input_Apply for hospital readmission_checkbox</name>
    <tag></tag>
-   <elementGuidId>7c35b7a9-61b4-48a4-bfca-21ad40cf2179</elementGuidId>
+   <elementGuidId>7232d8e6-8ccd-429f-aa1a-b96b2611ac42</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='menu-toggle']</value>
+         <value>//input[@id='chk_hospotal_readmission']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#menu-toggle</value>
+         <value>#chk_hospotal_readmission</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot;&quot;i]</value>
+         <value>internal:label=&quot;Apply for hospital readmission&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,87 +28,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>8e2fbe2b-a08d-4b26-b1e7-93c85e8035ae</webElementGuid>
+      <value>input</value>
+      <webElementGuid>e0f72414-37ea-4d0b-9fe3-0fc29fd3ff1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>ab5843ed-a6d1-44cf-ba2d-65c14de3da6e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>menu-toggle</value>
-      <webElementGuid>8ff5ed19-81b5-438e-be98-8ffb9331109e</webElementGuid>
+      <value>chk_hospotal_readmission</value>
+      <webElementGuid>24dc53d9-689b-4c54-82c3-3501c2f3f059</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>href</name>
+      <name>name</name>
       <type>Main</type>
-      <value>#</value>
-      <webElementGuid>4fa70c4e-bd4e-4117-be82-6eb7df218c15</webElementGuid>
+      <value>hospital_readmission</value>
+      <webElementGuid>afa6e67d-ad84-44b0-a52b-483304069da4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>value</name>
       <type>Main</type>
-      <value>btn btn-dark btn-lg toggle</value>
-      <webElementGuid>5141ebb0-7fef-460f-8151-199b771054f9</webElementGuid>
+      <value>Yes</value>
+      <webElementGuid>2e6ff3bf-ffc1-4fe8-b375-8fd1597e5824</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;menu-toggle&quot;)</value>
-      <webElementGuid>20738445-66c9-4f1e-beb5-c375389e5d4e</webElementGuid>
+      <value>id(&quot;chk_hospotal_readmission&quot;)</value>
+      <webElementGuid>67f23522-788b-4b3d-8cff-19f974093582</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//a[@id='menu-toggle']</value>
-      <webElementGuid>f18e1e04-010f-4092-bffa-758b955e6493</webElementGuid>
+      <value>//input[@id='chk_hospotal_readmission']</value>
+      <webElementGuid>8fc34429-a88c-435e-b179-aae43dc3e2e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='CURA Healthcare'])[1]/preceding::a[2]</value>
-      <webElementGuid>6932fa47-a46c-4f63-add8-a9309e868f09</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::a[3]</value>
-      <webElementGuid>8de12507-ede4-44af-aba2-0d69985553db</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
-      <type>Main</type>
-      <value>//a[contains(@href, '#')]</value>
-      <webElementGuid>6712ce91-d068-4cf8-b379-fd6af32ab293</webElementGuid>
+      <value>//section[@id='appointment']/div/div/form/div[2]/div/label/input</value>
+      <webElementGuid>54898cd2-d8b9-446d-9597-b735082e3c7d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//a</value>
-      <webElementGuid>179ca91d-5b49-4915-ab34-48f38406136a</webElementGuid>
+      <value>//input</value>
+      <webElementGuid>23a5bd8a-5d82-4c20-855b-575366a4bcef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@id = 'menu-toggle' and @href = '#']</value>
-      <webElementGuid>e6138f98-660c-428d-b8d9-317caed41379</webElementGuid>
+      <value>//input[@type = 'checkbox' and @id = 'chk_hospotal_readmission' and @name = 'hospital_readmission']</value>
+      <webElementGuid>4001a5e7-a3e7-438e-8e20-ee3f9cdb5d0d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

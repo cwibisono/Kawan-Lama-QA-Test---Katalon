@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>p_Please be informed that your appointment _11813a</name>
+   <name>p_Please be informed that your appointment</name>
    <tag></tag>
    <elementGuidId>4d76e74d-7037-48ca-9df2-247310903042</elementGuidId>
    <selectorCollection>

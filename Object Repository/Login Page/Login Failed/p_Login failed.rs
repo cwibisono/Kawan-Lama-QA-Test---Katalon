@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>p_Login failed Please ensure the username</name>
+   <name>p_Login failed</name>
    <tag></tag>
    <elementGuidId>371b880c-2aae-4362-aaa5-6590c856b5cc</elementGuidId>
    <selectorCollection>
