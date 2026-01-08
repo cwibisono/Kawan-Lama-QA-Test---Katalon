@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC_Appointment_Create_Success - Copy</name>
+   <name>TC_Login_invalid_blank</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>088d138f-0a05-436c-9c52-21e572a73f26</testCaseGuid>
+   <testCaseGuid>3bbd159b-ac65-4aff-b515-8734f0f34a14</testCaseGuid>
 </TestCaseEntity>
